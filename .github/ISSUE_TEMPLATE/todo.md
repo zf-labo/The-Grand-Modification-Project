@@ -6,14 +6,11 @@ labels: todo
 assignees: 'zf-development'
 ---
 
-**VEHICLE: **
-# 
+## WHAT:
+- [ ] HANDLING
+- [ ] ADDON
+- [ ] DISARM
+- [ ] UN-ARMOR
 
-**WHAT**
-[ ] HANDLING
-[ ] ADDON
-[ ] DISARM
-[ ] UN-ARMOR
-
-**NOTES: **
-### 
+## NOTES:
+#### 
